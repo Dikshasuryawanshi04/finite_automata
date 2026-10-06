@@ -1,0 +1,6 @@
+{
+  "name": "DFA Minimization Simulator",
+  "description": "Interactive step-by-step DFA minimization visualizer using partition refinement and table-filling methods for Theory of Computation students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
